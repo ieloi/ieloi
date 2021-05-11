@@ -9,3 +9,17 @@ Me chamo Ícaro Matheus Eloi do Nascimento
   - Português Brasileiro [nativo] (escrita e conversação)
   - Inglês [intermediário] (escrita e conversação) 
   - francês [ainda aprendendo] (escrita)
+
+<hr>
+
+### Hello!!! 👋
+
+My name is Ícaro Matheus Eloi do Nascimento
+
+- 📚 Computer Science Student at State University of Piauí - UESPI
+- 👨‍💻 I have interests in Web Development, Front-End and User Experience
+- 🖥 Currently learning HTML and CSS
+- 🌎 Languages
+  - Português Brasileiro [nativo] (escrita e conversação)
+  - Inglês [intermediário] (escrita e conversação) 
+  - francês [ainda aprendendo] (escrita)
