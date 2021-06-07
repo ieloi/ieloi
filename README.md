@@ -20,6 +20,6 @@ My name is Ícaro Matheus Eloi do Nascimento
 - 👨‍💻 I have interests in Web Development, Front-End and User Experience
 - 🖥 Currently learning HTML and CSS
 - 🌎 Languages
-  - Português Brasileiro [nativo] (escrita e conversação)
-  - Inglês [intermediário] (escrita e conversação) 
-  - francês [ainda aprendendo] (escrita)
+  - Brazilian Portuguese [native] (writing and conversation)
+  - English [intermediary] (writing and conversation) 
+  - Français [still learning] (writing)
